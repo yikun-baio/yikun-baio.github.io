@@ -20,7 +20,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 # About Me  
-I am a postdoctoral research assistant in the Department of Computer Science at Vanderbilt University, working under the guidance of Dr. [Soheil Kolouri](https://skolouri.github.io). I earned my Ph.D. in Electrical and Computer Engineering from the University of Delaware in 2022. During this period, I had the privilege of studying machine learning and statistics from Dr. [Dominique Guillot](https://dominiqueguillot.github.io/) and [Cencheng Shen](https://sites.udel.edu/shenc/). Before that, I completed my M.Sc. in Mathematics at Marshall University in West Virginia in 2016 and my B.Sc. in Medical Imaging at Mudanjiang Medical University, China, in 2012.  
+I am a postdoctoral research assistant in the Department of Computer Science at Vanderbilt University, working under the guidance of Dr. [Soheil Kolouri](https://skolouri.github.io). I earned my Ph.D. in Electrical and Computer Engineering from the University of Delaware in 2022. During this period, I had the privilege of studying machine learning and statistics from Dr. [Dominique Guillot](https://dominiqueguillot.github.io/) and Dr. [Cencheng Shen](https://sites.udel.edu/shenc/). Before that, I completed my M.Sc. in Mathematics at Marshall University in West Virginia in 2016 under the guidance of Dr. [Scott A. Sarra](http://www.scottsarra.org/),
+and my B.Sc. in Medical Imaging at Mudanjiang Medical University, China, in 2012.  
 
 
 My research primarily focuses on computational optimal transport and its applications in computer vision, statistics, and machine learning. During my Ph.D., I worked on measure concentration and information theory. Recently, I have been exploring the intersection of optimal transport with generative models, time series, and other areas for broader scientific applications, including bioinformatics.
