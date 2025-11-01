@@ -169,7 +169,21 @@
         - Information-theoretic applications of optimal transport
         - Statistical inference and estimation theory 
 
+- title: Professional Activities
+  type: time_table
+  contents:
+    - year: 2023-present
+      items:
+        - Reviewer for IEEE Transactions on Information Theory
+        - Reviewer for Journal of Machine Learning Research
+    - year: 2022-present
+      items:
+        - Member of SIAM (Society for Industrial and Applied Mathematics)
+        - Member of IEEE Signal Processing Society
+
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Anime, Hiking, etc.
+    - <u>Hobbies:</u> Anime, Hiking, Photography, Reading
+    - <u>Sports:</u> Basketball, Swimming
+    - <u>Languages:</u> Native Mandarin, Fluent English
