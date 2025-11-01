@@ -125,17 +125,49 @@
       items:
         - Graduate Research Assistantship (University of Delaware)
 
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Optimal transport
-      items: 
-        - Computation 
-        - Gromov OT 
-        - Unbalanced OT 
-    - title: Machine learning
+    - title: Programming Languages
       items:
-        - Kernel method and RKHS space 
+        - Python (NumPy, SciPy, Matplotlib, Pandas)
+        - MATLAB
+        - R
+        - C/C++
+        - Julia
+    - title: Machine Learning Frameworks
+      items:
+        - PyTorch
+        - TensorFlow
+        - Scikit-learn
+        - Keras
+    - title: Mathematical Software
+      items:
+        - Mathematica
+        - Maple
+        - LaTeX
+        - Git/GitHub
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Optimal Transport Theory
+      items:
+        - Computational algorithms for Wasserstein distances
+        - Gromov-Wasserstein optimal transport
+        - Unbalanced optimal transport
+        - Applications to machine learning
+    - title: Machine Learning & Data Science
+      items:
+        - Kernel methods and RKHS theory
+        - Generative models
+        - Time series analysis
+        - Statistical learning theory
+    - title: Information Theory
+      items:
+        - Measure concentration phenomena
+        - Information-theoretic applications of optimal transport
+        - Statistical inference and estimation theory 
 
 - title: Other Interests
   type: list
