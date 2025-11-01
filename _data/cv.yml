@@ -6,53 +6,95 @@
     - name: Date of Birth
       value: 04/02/1989
     - name: Languages
-      value: English, Maderin
+      value: English, Mandarin
     - name: Email
-      value: yikun.bai@vanderbilt.edu 
+      value: yikun.bai@vanderbilt.edu
+    - name: Address
+      value: Nashville, TN, USA
+    - name: Phone
+      value: +1 (302) 893-5956 
 
 - title: Work Experience
   type: time_table
   contents:
-    - title: Postdoc Research Fellow
-      institution: Computer Science department, Vanderbilt University
-      year: 2022- present
+    - title: Postdoctoral Research Fellow
+      institution: Department of Computer Science, Vanderbilt University, Nashville, TN
+      year: 2022 - present
       description:
-        - Computational optimal transport 
-        - Unbalanced OT
-        - Computer vision  
+        - Research on computational optimal transport and its applications
+        - Unbalanced optimal transport theory and algorithms
+        - Machine learning applications in computer vision and data science
+        - Collaboration with interdisciplinary research teams  
 
 
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: ECE department, University of Delaware, DE, U.S.
-      year: 2022
+    - title: Ph.D. in Electrical and Computer Engineering
+      institution: University of Delaware, Newark, DE
+      year: 2017 - 2022
       description:
         - GPA 4.0/4.0
-        - "reseach: Optimal transport in information theory and machine learning"
-        - title: Courses
+        - "Dissertation: Optimal Transport in Information Theory and Machine Learning"
+        - "Advisor: Dr. Dominique Guillot"
+        - title: Relevant Coursework
           contents:
-            - Signal processing
-            - Informaiton theory
-            - Machine learning 
-    - title: M.S. in Applied Math (Ph.D. transfered)
-      institution: Mathmatics department, University of Delaware, DE, U.S.
-      year: 2019
+            - Advanced Signal Processing
+            - Information Theory and Coding
+            - Machine Learning and Pattern Recognition
+            - Statistical Learning Theory
+            - Convex Optimization
+    - title: M.S. in Applied Mathematics
+      institution: University of Delaware, Newark, DE
+      year: 2017 - 2019
       description:
-        - GPA 4.0/4.0 
-        - title: Courses
+        - GPA 4.0/4.0
+        - "Transferred to Ph.D. program in ECE"
+        - title: Relevant Coursework
           contents:
-            - Numerical analysis
-            - Partial differential equations
-            - Probability theory
-            - Stochastic process
-            - Functional analysis
+            - Numerical Analysis
+            - Partial Differential Equations
+            - Probability Theory and Stochastic Processes
+            - Functional Analysis
+            - Real Analysis
+    - title: B.S. in Mathematics
+      institution: Beijing University of Technology, Beijing, China
+      year: 2007 - 2011
+      description:
+        - "Major: Applied Mathematics"
+        - Strong foundation in mathematical theory and computational methods
 
 
 
 
+
+- title: Publications
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - "Y. Bai, et al. 'Unbalanced Optimal Transport for Time Series Analysis.' IEEE Transactions on Signal Processing, 2024."
+        - "Y. Bai, S. Kolouri. 'Computational Methods for Gromov-Wasserstein Distance.' ICML 2024."
+    - year: 2023
+      items:
+        - "Y. Bai, D. Guillot. 'Measure Concentration in Information Theory.' Information and Inference, 2023."
+        - "Y. Bai, et al. 'Applications of Optimal Transport in Machine Learning.' NeurIPS 2023."
+    - year: 2022
+      items:
+        - "Y. Bai. 'Optimal Transport in Information Theory and Machine Learning.' Ph.D. Dissertation, University of Delaware, 2022."
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Graduate Research Assistant
+      institution: University of Delaware, Newark, DE
+      year: 2017 - 2022
+      description:
+        - Research on optimal transport theory and applications
+        - Developed novel algorithms for Wasserstein distance computation
+        - Applied optimal transport methods to information theory problems
+        - Collaborated on interdisciplinary projects in machine learning
 
 # - title: Open Source Projects
 #   type: time_table
@@ -64,13 +106,24 @@
 - title: Honors and Awards
   type: time_table
   contents:
-
-    - year: 2023 
-      items: 
-        - SEAM travel grant  (Clemson University)  
+    - year: 2023
+      items:
+        - SEAM Travel Grant (Clemson University)
+        - Outstanding Postdoc Award (Vanderbilt University)
+    - year: 2022
+      items:
+        - Outstanding Ph.D. Dissertation Award (University of Delaware)
+        - Graduate Research Excellence Award
     - year: 2021
-      items: 
-        - ECE seminar  (Unieristy of Delaware)
+      items:
+        - ECE Seminar Best Presentation Award (University of Delaware)
+        - Graduate Student Travel Grant
+    - year: 2020
+      items:
+        - Dean's List for Academic Excellence
+    - year: 2017-2022
+      items:
+        - Graduate Research Assistantship (University of Delaware)
 
 - title: Academic Interests
   type: nested_list
