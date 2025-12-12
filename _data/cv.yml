@@ -3,12 +3,10 @@
   contents:
     - name: Full Name
       value: Yikun Bai
-    - name: Date of Birth
-      value: 04/02/1989
     - name: Languages
       value: English, Mandarin
     - name: Email
-      value: yikun.bai@vanderbilt.edu
+      value: laobai312@gmail.com
     - name: Address
       value: Nashville, TN, USA
     - name: Phone
@@ -106,6 +104,12 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025 
+       items:
+        - Advanced Research In Physical AI Fellowship (Purdue University)        
+        - Google Cloud Research Award 
+        - Lambda AI Research Grant 
+   
     - year: 2023
       items:
         - SEAM Travel Grant (Clemson University)
@@ -134,7 +138,6 @@
         - MATLAB
         - R
         - C/C++
-        - Julia
     - title: Machine Learning Frameworks
       items:
         - PyTorch
@@ -172,10 +175,6 @@
 - title: Professional Activities
   type: time_table
   contents:
-    - year: 2023-present
-      items:
-        - Reviewer for IEEE Transactions on Information Theory
-        - Reviewer for Journal of Machine Learning Research
     - year: 2022-present
       items:
         - Member of SIAM (Society for Industrial and Applied Mathematics)
@@ -184,6 +183,6 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Anime, Hiking, Photography, Reading
+    - <u>Hobbies:</u> Anime, Hiking, Reading
     - <u>Sports:</u> Basketball, Swimming
     - <u>Languages:</u> Native Mandarin, Fluent English
