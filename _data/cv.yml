@@ -8,16 +8,22 @@
     - name: Email
       value: laobai312@gmail.com
     - name: Address
-      value: Nashville, TN, USA
+      value: West Lafayette, IN, USA
     - name: Phone
-      value: +1 (302) 893-5956 
+      value: +1 (302) 244-8486
 
 - title: Work Experience
   type: time_table
   contents:
-    - title: Postdoctoral Research Fellow
+    - title: Physical AI Postdoc Fellow
+      institution: Purdue University, West Lafayette, IN
+      year: 2026 - present
+      description:
+        - Discrete/Continuous flow matching and diffusion models
+        - Reinforcement learning methods for agentic AI systems
+    - title: Postdoctoral Research Assistant 
       institution: Department of Computer Science, Vanderbilt University, Nashville, TN
-      year: 2022 - present
+      year: 2022 - 2025
       description:
         - Research on computational optimal transport and its applications
         - Unbalanced optimal transport theory and algorithms
@@ -35,10 +41,10 @@
       description:
         - GPA 4.0/4.0
         - "Dissertation: Optimal Transport in Information Theory and Machine Learning"
-        - "Advisor: Dr. Dominique Guillot"
+       #- "Advisor: Dr. Dominique Guillot"
         - title: Relevant Coursework
           contents:
-            - Advanced Signal Processing
+            # - Advanced Signal Processing
             - Information Theory and Coding
             - Machine Learning and Pattern Recognition
             - Statistical Learning Theory
@@ -55,61 +61,19 @@
             - Partial Differential Equations
             - Probability Theory and Stochastic Processes
             - Functional Analysis
-            - Real Analysis
-    - title: B.S. in Mathematics
-      institution: Beijing University of Technology, Beijing, China
+    - title: B.S. in Medical Imaging
+      institution: Mudanjiang Medical University, Mudanjiang, China
       year: 2007 - 2011
-      description:
-        - "Major: Applied Mathematics"
-        - Strong foundation in mathematical theory and computational methods
 
-
-
-
-
-- title: Publications
-  type: time_table
-  contents:
-    - year: 2024
-      items:
-        - "Y. Bai, et al. 'Unbalanced Optimal Transport for Time Series Analysis.' IEEE Transactions on Signal Processing, 2024."
-        - "Y. Bai, S. Kolouri. 'Computational Methods for Gromov-Wasserstein Distance.' ICML 2024."
-    - year: 2023
-      items:
-        - "Y. Bai, D. Guillot. 'Measure Concentration in Information Theory.' Information and Inference, 2023."
-        - "Y. Bai, et al. 'Applications of Optimal Transport in Machine Learning.' NeurIPS 2023."
-    - year: 2022
-      items:
-        - "Y. Bai. 'Optimal Transport in Information Theory and Machine Learning.' Ph.D. Dissertation, University of Delaware, 2022."
-
-- title: Research Experience
-  type: time_table
-  contents:
-    - title: Graduate Research Assistant
-      institution: University of Delaware, Newark, DE
-      year: 2017 - 2022
-      description:
-        - Research on optimal transport theory and applications
-        - Developed novel algorithms for Wasserstein distance computation
-        - Applied optimal transport methods to information theory problems
-        - Collaborated on interdisciplinary projects in machine learning
-
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2025 
-       items:
-        - Advanced Research In Physical AI Fellowship (Purdue University)        
-        - Google Cloud Research Award 
-        - Lambda AI Research Grant 
-   
+    - year: 2025
+      items:
+        - Advanced Research in Physical AI Fellowship (Purdue University)
+        - Google Cloud Research Award
+        - Lambda AI Research Grant
     - year: 2023
       items:
         - SEAM Travel Grant (Clemson University)
@@ -154,23 +118,21 @@
 - title: Research Interests
   type: nested_list
   contents:
-    - title: Optimal Transport Theory
+    - title: Flow Matching
       items:
-        - Computational algorithms for Wasserstein distances
-        - Gromov-Wasserstein optimal transport
-        - Unbalanced optimal transport
-        - Applications to machine learning
-    - title: Machine Learning & Data Science
+        - Continuous-time generative modeling
+        - Probability path design and transport dynamics
+        - Scalable training and sampling algorithms
+    - title: Diffusion Models
       items:
-        - Kernel methods and RKHS theory
-        - Generative models
-        - Time series analysis
-        - Statistical learning theory
-    - title: Information Theory
+        - Discrete and continuous diffusion processes
+        - Score-based modeling and inverse problems
+        - Theory and applications in scientific machine learning
+    - title: Reinforcement Learning
       items:
-        - Measure concentration phenomena
-        - Information-theoretic applications of optimal transport
-        - Statistical inference and estimation theory 
+        - Policy optimization and value-based methods
+        - Model-based reinforcement learning
+        - Decision-making under uncertainty
 
 - title: Professional Activities
   type: time_table
