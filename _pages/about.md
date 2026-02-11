@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoc @ <a href='https://www.vanderbilt.edu'>Vanderbilt University</a>. Nashville, TN, U.S.
+subtitle: Physical AI Postdoc Fellow @ <a href='https://www.purdue.edu'>Purdue University</a>. West Lafayette, IN, U.S.
 
 profile:
   align: right
   image: Yikun_Bai.jpg
   image_circular: false #false # crops the image to make it circular
   address: >
-    <p>Vanderbilt University, Computer science department</p>
+    <p>Purdue University</p>
 
 news: true  # includes a list of news items
 latest_posts: false #true  # includes a list of the newest posts
@@ -20,10 +20,10 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 # About Me  
-I am a postdoctoral research assistant in the Department of Computer Science at Vanderbilt University, working under the guidance of Dr. [Soheil Kolouri](https://skolouri.github.io). I earned my Ph.D. in Electrical and Computer Engineering from the University of Delaware in 2022, during which I had the privilege of studying machine learning and statistics under Dr. [Dominique Guillot](https://dominiqueguillot.github.io/). 
+I am currently a Physical AI Postdoc Fellow at Purdue University, supervised by Dr. [Guang Lin](https://www.math.purdue.edu/~lin491/) and Dr. [Ruqi Zhang](https://ruqizhang.github.io/). Prior to Purdue, I was a postdoc in the Department of Computer Science at Vanderbilt University (2022-2025), supervised by Dr. [Soheil Kolouri](https://skolouri.github.io/). I received my Ph.D. in Electrical and Computer Engineering from the University of Delaware in 2022, where I studied machine learning and statistics under the guidance of Dr. [Dominique Guillot](https://dominiqueguillot.github.io/).. 
 
 
-My research primarily focuses on optimal transport computation and its applications in machine learning. During my Ph.D., I worked on measure concentration and information theory. More recently, I have been exploring the intersection of optimal transport with generative models, time series analysis, and other domains, with a particular interest in broader scientific applications, including bioinformatics.
+My current research interests include discrete and continuous diffusion models, optimal transport, and reinforcement learning.
 
 
 <div align="center">
