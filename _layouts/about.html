@@ -46,6 +46,12 @@ layout: default
             {%- include news.html limit=true %}
           {%- endif %}
 
+          {% if page.permalink == '/' -%}
+            <div align="center">
+              <em>"Glory to my Lord"</em>
+            </div>
+          {%- endif %}
+
           <!-- Latest posts -->
           {% if page.latest_posts -%}
             <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>

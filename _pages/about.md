@@ -30,7 +30,3 @@ I am currently a Physical AI Postdoc Fellow at Purdue University, supervised by 
 - Flow matching and transport-based generative modeling
 - Diffusion models for scientific machine learning
 - Reinforcement learning for decision-making under uncertainty
-
-<div align="center">
-<em>"Glory to my Lord"</em>
-</div>
