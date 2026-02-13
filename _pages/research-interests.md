@@ -1,0 +1,5 @@
+<h2 id="research-interests" style="scroll-margin-top: 90px;">Current Research Interests</h2>
+
+- **Discrete and Continuous Flow Matching / Diffusion Models:** I study both discrete-time and continuous-time formulations of flow matching and diffusion models, with a focus on probability path design, transport dynamics, and scalable training/sampling algorithms for high-dimensional or non-Euclidean data.
+- **Reinforcement Learning for Generative Models:** I am interested in using RL methods to improve generative modeling pipelines, including reward-driven fine-tuning, policy optimization for generation quality/control, and learning strategies that connect exploration with robust sample synthesis.
+- **Reinforcement Learning for Decision-Making Over Time (toward quant research):** I work on RL for sequential and temporal decision problems under uncertainty, with long-term interests in applications aligned with quantitative researcher roles in hedge funds and related data-driven decision-making jobs.
