@@ -32,5 +32,5 @@ I am currently a Physical AI Postdoc Fellow at Purdue University, supervised by 
 - Reinforcement learning for decision-making under uncertainty
 
 <div align="center">
-<em>"荣耀尽归我主 · Glory to my Lord"</em>
+<em>"Glory to my Lord"</em>
 </div>
