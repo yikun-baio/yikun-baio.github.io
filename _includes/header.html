@@ -85,7 +85,14 @@
               </li>
               {%- else %}
               <li class="nav-item {% if page.title == p.title %}active{% endif %}">
-                <a class="nav-link" href="{% if p.nav_url %}{{ p.nav_url }}{% else %}{{ p.url | relative_url }}{% endif %}" {% if p.nav_url %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ p.title }}
+                {% if p.nav_url %}
+                  {% assign nav_href = p.nav_url %}
+                  {% assign is_external_nav = p.nav_url contains '://' %}
+                {% else %}
+                  {% assign nav_href = p.url | relative_url %}
+                  {% assign is_external_nav = false %}
+                {% endif %}
+                <a class="nav-link" href="{{ nav_href }}" {% if is_external_nav %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ p.title }}
                   {%- if page.title == p.title -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
