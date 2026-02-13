@@ -25,7 +25,7 @@ I am currently a Physical AI Postdoc Fellow at Purdue University, supervised by 
 
 
 
-<h2 id="research-interests" style="scroll-margin-top: 90px;">Research Interests</h2>
+<h2 id="research-interests" style="scroll-margin-top: 90px;">Current Research Interests</h2>
 
 - Flow matching and transport-based generative modeling
 - Diffusion models for scientific machine learning
