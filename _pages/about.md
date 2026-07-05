@@ -23,6 +23,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 # About Me
-I am currently a Physical AI Postdoc Fellow at Purdue University, supervised by Dr. [Guang Lin](https://www.math.purdue.edu/~lin491/) and Dr. [Ruqi Zhang](https://ruqizhang.github.io/). Prior to Purdue, I was a postdoc in the Department of Computer Science at Vanderbilt University (2022-2025), supervised by Dr. [Soheil Kolouri](https://skolouri.github.io/). I received my Ph.D. in Electrical and Computer Engineering from the University of Delaware in 2022, where I studied machine learning and statistics under the guidance of Dr. [Dominique Guillot](https://dominiqueguillot.github.io/). 
+I am currently a Physical AI Postdoc Fellow at Purdue University, supervised by Dr. [Guang Lin](https://www.math.purdue.edu/~lin491/) and Dr. [Ruqi Zhang](https://ruqizhang.github.io/). Prior to Purdue, I was a postdoc in the Department of Computer Science at Vanderbilt University (2022-2025), supervised by Dr. [Soheil Kolouri](https://skolouri.github.io/), my academic father. I received my Ph.D. in Electrical and Computer Engineering from the University of Delaware in 2022, where I studied machine learning and statistics under the guidance of Dr. [Dominique Guillot](https://dominiqueguillot.github.io/). 
 
 {% include_relative research-interests.md %}
