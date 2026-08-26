@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Physical AI Postdoctoral Fellow @ <a href='https://www.purdue.edu'>Purdue University</a>
-motto: ""
+motto: "Faith guides the pursuit of truth, and learning deepens understanding."
 
 profile:
   align: right
