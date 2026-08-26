@@ -10,7 +10,14 @@ layout: default
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
           {% if page.motto and page.motto != "" %}
-            <p class="desc" style="margin-top: -0.5rem; font-style: italic; opacity: 0.82;">{{ page.motto }}</p>
+            <blockquote style="margin: -0.5rem 0 0.1rem 0; padding-left: 0.8rem; border-left: 3px solid #7c6cff; font-style: italic; opacity: 0.82; color: rgba(0, 0, 0, 0.8); font-size: 0.9rem; line-height: 1.5;">
+              {{ page.motto }}
+            </blockquote>
+            {% if page.motto_source and page.motto_source != "" %}
+              <div style="margin: 0 0 1rem 0; padding-left: 1.1rem; color: rgba(0, 0, 0, 0.6); font-size: 0.75rem; letter-spacing: 0.02em;">
+                — {{ page.motto_source }}
+              </div>
+            {% endif %}
           {% endif %}
         </header>
 

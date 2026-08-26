@@ -4,6 +4,7 @@ title: about
 permalink: /
 subtitle: Physical AI Postdoctoral Fellow @ <a href='https://www.purdue.edu'>Purdue University</a>
 motto: "Let all things be done decently and in order."
+motto_source: "1 Corinthians 14:40"
 
 profile:
   align: right
