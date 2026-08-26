@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [PTLp: Partial Transport Lp Distances](https://arxiv.org/pdf/2307.13571.pdf) has been accapted by [Neurips2023](https://neurips.cc/Conferences/2023) OT workshop. 
+Our paper [PTLp: Partial Transport Lp Distances](https://arxiv.org/pdf/2307.13571.pdf) was accepted by the [NeurIPS 2023](https://neurips.cc/Conferences/2023) OT workshop.

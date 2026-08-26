@@ -9,6 +9,9 @@ layout: default
            {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
+          {% if page.motto and page.motto != "" %}
+            <p class="desc" style="margin-top: -0.5rem; font-style: italic; opacity: 0.82;">{{ page.motto }}</p>
+          {% endif %}
         </header>
 
         <article>
@@ -44,12 +47,6 @@ layout: default
           {% if page.news and site.announcements.enabled -%}
             <h2 id="news" style="scroll-margin-top: 90px;"><a href="#news" style="color: inherit;">News</a></h2>
             {%- include news.html limit=true %}
-          {%- endif %}
-
-          {% if page.permalink == '/' -%}
-            <div align="center">
-              <em>"Glory to my Lord"</em>
-            </div>
           {%- endif %}
 
           <!-- Latest posts -->

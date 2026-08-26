@@ -2,17 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Physical AI Postdoc Fellow @ <a href='https://www.purdue.edu'>Purdue University</a>. West Lafayette, IN, U.S.
+subtitle: Physical AI Postdoctoral Fellow @ <a href='https://www.purdue.edu'>Purdue University</a>
+motto: ""
 
 profile:
   align: right
   image: Yikun_Bai.jpg
   image_circular: false #false # crops the image to make it circular
-  address: >
-    <a href="https://www.purdue.edu">Math Department, Purdue University</a><br>
-    West Lafayette, IN, U.S.<br>
-
-
 
 news: true  # includes a list of news items
 latest_posts: false #true  # includes a list of the newest posts
